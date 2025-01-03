@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .font_subtitle {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+
+  .location-text {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
