@@ -8,11 +8,32 @@ body {
   }
 
   .font_subtitle {
-    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1rem;
+    font-family: fantasy;
+    font-size: 20px;
   }
   
+  .icon-style {
+    width: 24px; /* Ajusta según el tamaño del ícono */
+    height: 24px; /* Asegura que sea cuadrado */
+    vertical-align: middle; /* Alinea con el texto */
+    margin-right: 8px; /* Espaciado similar al ícono */
+    color: antiquewhite;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  footer {
+    padding: 2rem 0; /* Espaciado interno del footer */
+}
 
   .location-text {
     font-family: 'Times New Roman', Times, serif;
   }
   
+  .container_maim {
+      background-image: url('/img/fondo1.jpeg');
+      background-size: 100% auto;
+      border-radius: 20px;
+      background-position: center top;
+      background-repeat: no-repeat;
+       }
