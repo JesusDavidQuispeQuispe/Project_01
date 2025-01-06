@@ -1,3 +1,59 @@
+
+/**************** TYPE FONST ******************/
+
+.location-text {
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+
+.font_subtitle {
+  margin-top: 1rem;
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+.title_font{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+.navbar {
+  --bs-navbar-color: rgba(255, 255, 255, 1); /* Cambia esto por tu color */
+  color: var(--bs-navbar-color); /* Asegúrate de que los elementos usen el nuevo color */
+}
+
+
+
+.font_subtitle {
+  margin-top: 1rem;
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+.font_navbar{
+  font-family: cursive;
+  color: white;
+}
+
+
+
+
+.navbar-nav {
+  padding-right: 4rem; /* Ajusta según tu necesidad */
+}
+.navbar-nav .nav-item {
+  margin-right: 10rem; /* Aumenta o reduce el espacio entre elementos */
+}
+
+.main {
+  background-image: url('/img/IrM.gif');
+  background-size: 100% auto;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -26,9 +82,7 @@ body {
     padding: 2rem 0; /* Espaciado interno del footer */
 }
 
-  .location-text {
-    font-family: 'Times New Roman', Times, serif;
-  }
+
   
   .container_maim {
       background-image: url('/img/fondo1.jpeg');
@@ -37,3 +91,4 @@ body {
       background-position: center top;
       background-repeat: no-repeat;
        }
+
