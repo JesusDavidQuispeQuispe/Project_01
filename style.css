@@ -16,6 +16,27 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
+.font_title_etiquetas{
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+
+
+/*************** IMAGE LENGUAJES ******************/
+.img_center{
+  align-items: center;
+  align-content: center;
+  width: 250px;
+  height: auto;
+}
+.img_lenguajes {
+  width: 200px;
+  height: 200px;
+  align-items: center;
+  align-content: center;
+}
+
+
 
 
 
