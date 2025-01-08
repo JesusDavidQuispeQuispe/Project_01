@@ -21,17 +21,24 @@
   color: white;
 }
 
+.font_text_lenguajes{
+  font-family:  serif;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  
+}
 
 /*************** IMAGE LENGUAJES ******************/
 .img_center{
   align-items: center;
   align-content: center;
-  width: 250px;
+  width: 30px;
   height: auto;
+  background-color: transparent;
 }
 .img_lenguajes {
-  width: 200px;
-  height: 200px;
+  width: 50px;
+  height: auto;
   align-items: center;
   align-content: center;
 }
